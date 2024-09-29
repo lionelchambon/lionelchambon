@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lionelchambon
-- 👀 I’m interested in economics and currently exploring GutHub to familiarize myself with version control.
-- 📚 I’m currently studying in Paris, at Sciences Po.
+- 👀 I’m interested in macroeconomics, monetary policy, and economic history.
+- 📚 I’m currently studying in Paris, at Sciences Po. Formerly, I was an intern at Deutsche Bundesbank.
 - 📫 Feel free to reach out at lionel.chambon@sciencespo.fr 
 
 <!---
