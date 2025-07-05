@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lionelchambon
+- 📚 I’m an economist, trained at Sciences Po. Formerly, I was an intern at Deutsche Bundesbank.
 - 👀 I’m interested in macroeconomics, monetary policy, and economic history.
-- 📚 I’m currently studying in Paris, at Sciences Po. Formerly, I was an intern at Deutsche Bundesbank.
 - 📫 Feel free to reach out at lionel.chambon@sciencespo.fr 
 
 <!---
